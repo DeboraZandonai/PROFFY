@@ -79,7 +79,7 @@
     margin-right: 2rem;
 }
 
-#page-teacher-form main footer a {
+#page-teacher-form main footer button {
     width: 100%;
     height: 5.6rem;
     background: var(--color-secundary);
@@ -97,7 +97,7 @@
     text-decoration: none;
 }
 
-#page-teacher-form main footer a:hover {
+#page-teacher-form main footer button:hover {
     background: var(--color-secundary-dark);
 }
 

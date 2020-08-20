@@ -162,7 +162,7 @@ function TeacherForm() {
                         Importante! <br/>
                         Preencha todos os dados
                     </p>
-                    <button type="submit"> Salvar cadastro</button>
+                    <button type="submit">Salvar cadastro</button>
                 </footer>
                 </form>
             </main>
