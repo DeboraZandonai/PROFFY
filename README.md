@@ -17,12 +17,12 @@ Proffy é uma plataforma de estudos online que consiste em interligar alunos e p
 ### Faça um fork utilizando a linha de comando oficial do GitHub
 
 ```bash
-$ gh repo fork DeboraZandonai/PROFFY
+$ gh repo fork DeboraZandonai/Proffy
 ```
 ### Clone o seu fork e substitua o campo caminho por server, web ou mobile
 
 ```bash
-$ git clone url-do-seu-fork && cd PROFFY/caminho
+$ git clone url-do-seu-fork && cd Proffy/caminho
 ```
 ### Crie uma branch com as suas features
 ```bash
