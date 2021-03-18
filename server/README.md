@@ -7,7 +7,7 @@
 </h1>
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 <ul>
   <li><h3><a href="https://nodejs.org/pt-br/">NodeJS</a></h3></li>
@@ -18,11 +18,11 @@
 </ul>
 
 <h2>
-  📄 Funcionalidades
+  📄 Functionalities
 </h2>
 
 <ul>
-  <h3>Cadastro de professores</h3>
+  <h3>Registration of teachers</h3>
   
   <p><strong>POST: </strong> http://localhost:3333<strong>/classes</strong></p>
   
@@ -44,7 +44,7 @@
 
   <strong>Response: status 201</strong>
   
-  <h3>Busca de professores</h3>
+  <h3>Teacher search</h3>
   
   <p><strong>GET: </strong>http://localhost:3333/classes?<strong>subject=filosofia&week_day=2&time=13:00</strong></p>
   <strong>Response: </strong>
@@ -67,7 +67,7 @@
     ]
   ```
 
-  <h3>Criar conexões entre alunos e professores</h3>
+  <h3>Create connections between students and teachers</h3>
   
   <p><strong>POST: </strong> http://localhost:3333<strong>/connections</strong></p>
 
@@ -80,7 +80,7 @@
 
   <strong>Response: status 201</strong>
 
-  <h3>Listar quantidade de conexões</h3>
+  <h3>List number of connections</h3>
   <p><strong>GET: </strong>http://localhost:3333/<strong>connections</strong></p>
 
    <strong>Response: </strong>
@@ -93,7 +93,7 @@
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -102,28 +102,28 @@
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/PROFFY.git 
 ```
 
-### Navegue até a pasta do projeto
+### Navigate to the project folder
 
 ```bash
 $ cd PROFFY/server
 ```
 
-### Carregue as dependências
+### Load dependencies
 
 ```bash
 $ yarn
 ```
 
-### Rode o projeto
+### Run the project
 
 ```bash
 $ yarn start
