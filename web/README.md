@@ -11,13 +11,13 @@
 </h1>
 
 <h2 align=center>
-  ⭐ Prévia do projeto
+  ⭐ Project preview
 </h2>
 
 ![Badge](/github/login.png)
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 
 <ul>
@@ -28,19 +28,19 @@
 </ul>
 
 <h2>
-  📄 Funcionalidades
+  📄 Functionalities
 </h2>
 
 <ul>
-  <li>Cadastro de professores;</li>
+  <li>Registration of teachers;</li>
   <br />
-  <li>Realizar a busca de professores utilizando filtros de dia da semana, matéria e horário;</li>
+  <li>Conduct the search for teachers using weekday, subject and time filters;</li>
   <br />
-  <li>Acesso ao chat do professor via whatsapp (caso você tenha o whatsapp web instalado).</li>
+  <li>Access to the teacher's chat via whatsapp (if you have whatsapp web installed).</li>
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -49,32 +49,31 @@
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-<em>Lembre-se de realizar o mesmo procedimento da pasta server, para ter o backend rodando conjuntamente.</em>
+<em>Remember to perform the same procedure as the server folder, to have the backend running together.</em>
 
-**Obs: Isso só precisa ser realizado apenas uma vez para todos.**
+**Remember to perform the same procedure as the server folder, to have the backend running together.**
 
 ### Clone o repositório para ter uma cópia do código em sua máquina
 ```bash
 $ git clone https://github.com/DeboraZandonai/PROFFY.git 
 ```
 
-### Navegue até a pasta do projeto web
+### Navigate to the web project folder
 ```bash
 $ cd PROFFY/web
 ```
 
-### Carregue as dependências
+### Load dependencies
 ```bash
 $ yarn
 ```
 
-# Rode o projeto
+# Run the project
 ```bash
 $ yarn start
 ```
-<br />
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
