@@ -2,9 +2,9 @@
 
 ![Badge](/github/logo.png)
 
-## 💻 Proposta do projeto
+## 💻 Project proposal
 
-Proffy é uma plataforma de estudos online que consiste em interligar alunos e professores particulares de inúmeras matérias. Este projeto resume-se a criação de um MVP incluindo a stack NodeJS, React e ReactNative... Utilizando um sistema de CRUD com arquitetura rest api no backend e frontend, web e mobile ([saiba mais](https://nextlevelweek.com/)).
+Proffy is an online study platform that consists of connecting students and private teachers of numerous subjects. This project summarizes the creation of an MVP including the NodeJS, React and ReactNative stack ... Using a CRUD system with rest api architecture on the backend and frontend, web and mobile ([learn more] (https: // nextlevelweek. with/)).
 
 ## 🧭 Índice
 
@@ -12,35 +12,33 @@ Proffy é uma plataforma de estudos online que consiste em interligar alunos e p
 - [Web](./web)
 - [Mobile](./mobile)
 
-<h2>💡 Deseja contribuir com esse projeto?</h2> 
+<h2>💡 Do you want to contribute to this project?</h2> 
 
-### Faça um fork utilizando a linha de comando oficial do GitHub
+### Fork using the official GitHub command line
 
 ```bash
 $ gh repo fork DeboraZandonai/Proffy
 ```
-### Clone o seu fork e substitua o campo caminho por server, web ou mobile
+### Clone your fork and replace the path field with server, web or mobile
 
 ```bash
 $ git clone url-do-seu-fork && cd Proffy/caminho
 ```
-### Crie uma branch com as suas features
+### Create a branch with your features
 ```bash
 $ git checkout -b minha-feature
 ```
-### Faça um commit das suas alterações
+### Commit your changes
 ```bash
 $ git commit -m 'feat: suas alterações'
 ```
-### Envie o código para a sua branch remota
+### Send the code to your remote branch
 ```bash
-$ git push origin minha-feature
+$ git push origin my-feature
 ```
-Depois que a sua pull request for aceita você pode deletar a sua branch.
+After your pull request is accepted you can delete your branch.
 
-## 📝 Licença
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
-
-<hr />
+## 📝 License
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
