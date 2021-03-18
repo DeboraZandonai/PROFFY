@@ -28,19 +28,19 @@
 </ul>
 
 <h2>
-  📄 Funcionalidades
+  📄 Functionalities
 </h2>
 
 <ul>
-  <li>Listagem de professores vinculados ao dia da semana, matéria e horário de serviço;</li>
+  <li>List of teachers linked to the day of the week, subject and service hours;</li>
   <br />
-  <li>Adição de professores ao favoritos, salvando-os no banco de dados local;</li>
+  <li>Adding teachers to favorites, saving them to the local database;</li>
   <br />
-  <li>Acesso ao chat do professor via whatsapp (caso você tenha o whatsapp web instalado).</li>
+  <li>Access to the teacher's chat via whatsapp (if you have whatsapp web installed).</li>
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -49,41 +49,41 @@
 </ul>
 
 <h2>
-  💡 Como rodar o projeto?
+  💡 How to run the project?
 </h2>
 
-<em>Lembre-se de realizar o mesmo procedimento da pasta server, para ter o backend rodando conjuntamente.</em>
+<em>Remember to perform the same procedure as the server folder, to have the backend running together.</em>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 ```bash
 $ git clone https://github.com/DeboraZandonai/PROFFY.git 
 ```
-### Navegue até a pasta do projeto web
+### Navigate to the mobile project folder
 ```bash
 $ cd PROFFY/mobile
 ```
 
-### Carregue as dependências
+### Load dependencies
 ```bash
 $ yarn
 ```
 
-### Rode o projeto
+### Run the project
 ```bash
 $ yarn start
 ```
 
-### Inicie o simulador/dispositivo físico
+### Start the simulator / physical device
 ```bash
 $ yarn android 
 ```
-ou
+or
 
 ```bash
 $ yarn ios
 ```
 
-<em>Para mais detalhes de como rodar o app em um emulador ou em seu dispositivo físico, clique <a href="https://react-native.rocketseat.dev/">aqui</a>.</em>
+<em>For more details on how to run the app on an emulator or on your physical device, click <a href="https://react-native.rocketseat.dev/">on here</a>.</em>
 <br />
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
