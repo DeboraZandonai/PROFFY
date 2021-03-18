@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Proffy Mobile 🚀</h1>
 <h1 align=center>
-  <br/>
   <div align=center>
   <img src="https://img.shields.io/badge/framework-react%20native-blue" alt="Reactjs"/>
 
